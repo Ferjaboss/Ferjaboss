@@ -12,6 +12,37 @@
 <div>
 
 ## My favorite tools and technologies ⚙️
+<h3>Programming Languages :</h3>
+
+[![Programming languages](https://skillicons.dev/icons?i=java,python,php,js,ts)](https://skillicons.dev)
+
+<h3>Frameworks & Technologies :</h3>
+
+[![Frameworks & technologies](https://skillicons.dev/icons?i=spring,nodejs,angular,react,laravel)](https://skillicons.dev)
+
+<h3>Web Development :</h3>
+
+[![WebDev](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
+
+<h3>DevOps and Tools :</h3>
+
+[![WebDev](https://skillicons.dev/icons?i=nginx,github,docker,kubernetes,jenkins,ansible,prometheus,grafana)](https://skillicons.dev)
+
+<h3>Database and API Testing :</h3>
+
+[![WebDev](https://skillicons.dev/icons?i=mysql,postman)](https://skillicons.dev)
+
+<h3>Operating Systems :</h3>
+
+[![WebDev](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+
+<h3>Design Tools :</h3>
+
+[![WebDev](https://skillicons.dev/icons?i=figma,ps,p)](https://skillicons.dev)
+
+
+
+
 
 
 
