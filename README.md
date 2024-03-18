@@ -14,7 +14,7 @@
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <table>
   <tr>
     <td align="center" width="96">
