@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bechir Ferjani</h1>
-<h3 align="center">Angular/Springboot Fullstack Developper | Future DevOps Engineer</h3>
-
+<h3 align="center">Software Engineer</h3>
+<h5 style="">Java , SpringBoot , React , Angular</h5>
 <a href="https://www.twitter.com/Bechir_fer/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
