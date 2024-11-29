@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bechir Ferjani</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">JAVA/JEE Developerr</h3>
 <a href="https://www.twitter.com/Bechir_fer/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
@@ -13,27 +13,27 @@
 ## My favorite tools and technologies ⚙️
 <h3>Programming Languages :</h3>
 
-[![Programming languages](https://skillicons.dev/icons?i=java,python,php,js,ts)](https://skillicons.dev)
+[![Programming languages](https://skillicons.dev/icons?i=java,python,go,js,ts)](https://skillicons.dev)
 
 <h3>Frameworks & Technologies :</h3>
 
-[![Frameworks & technologies](https://skillicons.dev/icons?i=spring,nodejs,angular,react,laravel)](https://skillicons.dev)
+[![Frameworks & technologies](https://skillicons.dev/icons?i=spring,nodejs,angular,react)](https://skillicons.dev)
 
 <h3>Web Development :</h3>
 
 [![WebDev](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
 
-<h3>DevOps and Tools :</h3>
+<h3>DevOps :</h3>
 
 [![WebDev](https://skillicons.dev/icons?i=nginx,github,docker,kubernetes,jenkins,ansible,prometheus,grafana)](https://skillicons.dev)
 
 <h3>Database and API Testing :</h3>
 
-[![WebDev](https://skillicons.dev/icons?i=mysql,postman)](https://skillicons.dev)
+[![WebDev](https://skillicons.dev/icons?i=mysql,postgres,postman)](https://skillicons.dev)
 
 <h3>Operating Systems :</h3>
 
-[![WebDev](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+[![WebDev](https://skillicons.dev/icons?i=windows,linux,ubuntu,mint)](https://skillicons.dev)
 
 <h3>Design Tools :</h3>
 
